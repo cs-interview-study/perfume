@@ -3,9 +3,9 @@ CS, JavaScript, React에 관해 스터디한 내용을 정리하는 repo입니�
 
 <hr/>
 
-##[CS](https://github.com/cs-interview-study/perfume/blob/main/CS/)
+## [💜 CS 💜](https://github.com/cs-interview-study/perfume/blob/main/CS/)
 
-### [Network](https://github.com/cs-interview-study/perfume/blob/main/CS/Network/)
+### 📢 [Network](https://github.com/cs-interview-study/perfume/blob/main/CS/Network/)
 
 #### 1. [TCP/IP](https://github.com/cs-interview-study/perfume/blob/main/CS/Network/TCP_IP.md)
 
@@ -14,7 +14,7 @@ CS, JavaScript, React에 관해 스터디한 내용을 정리하는 repo입니�
     />
   </a>
 
-### [Web](https://github.com/cs-interview-study/perfume/blob/main/CS/Web/)
+### 🌐 [Web](https://github.com/cs-interview-study/perfume/blob/main/CS/Web/)
 
 #### 1. [SPA](https://github.com/cs-interview-study/perfume/blob/main/CS/Web/SPA.md)
 
@@ -24,7 +24,7 @@ CS, JavaScript, React에 관해 스터디한 내용을 정리하는 repo입니�
   </a>
 
 
-## [JavaScript](https://github.com/cs-interview-study/perfume/blob/main/JavaScript/)
+## [💛 JavaScript 💛](https://github.com/cs-interview-study/perfume/blob/main/JavaScript/)
 
 #### 1. [var, let, const](https://github.com/cs-interview-study/perfume/blob/main/JavaScript/var_let_const.md)
 
